@@ -21,6 +21,7 @@
   "peacock.color": "orange",
   "files.associations": {
     "iostream": "cpp",
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "functional": "cpp"
   }
 }
