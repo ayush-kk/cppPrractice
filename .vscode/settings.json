@@ -22,6 +22,7 @@
   "files.associations": {
     "iostream": "cpp",
     "ostream": "cpp",
-    "functional": "cpp"
+    "functional": "cpp",
+    "bitset": "cpp"
   }
 }
